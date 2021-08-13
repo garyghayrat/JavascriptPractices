@@ -1,0 +1,20 @@
+{
+  "type": "module",
+  "name": "javascript-docs",
+  "version": "1.0.0",
+  "main": "importexmaple.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garyghayrat/JavascriptPractices.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/garyghayrat/JavascriptPractices/issues"
+  },
+  "homepage": "https://github.com/garyghayrat/JavascriptPractices#readme",
+  "description": ""
+}
