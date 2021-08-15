@@ -1,3 +1,3 @@
-import * as capitalizeString from "capitalizeString";
+import {capitalizeString} from './exportExample.js';
 
-console.log(capitalizeString(test));
+console.log(capitalizeString("test"));

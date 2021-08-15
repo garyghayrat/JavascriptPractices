@@ -1,5 +1,5 @@
-import { capitalizeString } from "./string_function.js"
+import { capitalizeString } from "./exportExample.js"
 
-const cap = capitalizeString("Hello!");
+const cap = capitalizeString("ttt!");
 
 console.log(cap);
