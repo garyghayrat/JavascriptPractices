@@ -1,3 +1,3 @@
-import {capitalizeString} from './exportExample.js';
+import * as myFuncs from './exportExample.js';
 
-console.log(capitalizeString("test"));
+console.log(myFuncs.capitalizeString("test"));
